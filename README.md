@@ -1,13 +1,15 @@
-AI College Application Startup
-Overview
+# AI College Application Startup
+## Overview
 This project is a landing page for an AI-powered college application startup. The webpage introduces our startup's vision to streamline the college application process using artificial intelligence. It provides information about our mission and allows interested users to sign up with their email to receive updates when the full application launches.
 Features
 
-Landing Page: A clean, responsive webpage that presents the startup's idea and value proposition.
-Email Signup: A form for users to submit their email addresses to stay informed about the application's launch.
-Modern Design: Built with HTML, CSS, and JavaScript for a professional and user-friendly experience.
+### Landing Page: A clean, responsive webpage that presents the startup's idea and value proposition.
 
-## 🚀 Getting Started
+### Email Signup: A form for users to submit their email addresses to stay informed about the application's launch.
+
+### Modern Design: Built with HTML, CSS, and JavaScript for a professional and user-friendly experience.
+
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -19,21 +21,11 @@ Modern Design: Built with HTML, CSS, and JavaScript for a professional and user-
    cd college-ai-advisor
    ```
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and visit:
+3. Open your browser and visit:
    - Local: [http://localhost:3000](http://localhost:3000)
    - Network: The network URL will be displayed in your terminal (typically starts with `http://[your-ip]:3000`)
 
-## 🎯 Project Purpose
+## Project Purpose
 
 The College AI Advisor landing page is designed to:
 
@@ -43,7 +35,7 @@ The College AI Advisor landing page is designed to:
 - Provide information about our AI capabilities and services
 - Create a professional first impression for potential users and investors
 
-## 📱 Usage
+## Usage
 
 1. Visit the landing page to learn about our AI-powered college application services
 2. Explore the features and benefits of our platform
