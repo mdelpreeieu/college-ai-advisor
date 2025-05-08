@@ -3,11 +3,11 @@
 This project is a landing page for an AI-powered college application startup. The webpage introduces our startup's vision to streamline the college application process using artificial intelligence. It provides information about our mission and allows interested users to sign up with their email to receive updates when the full application launches.
 Features
 
-### Landing Page: A clean, responsive webpage that presents the startup's idea and value proposition.
+- Landing Page: A clean, responsive webpage that presents the startup's idea and value proposition.
 
-### Email Signup: A form for users to submit their email addresses to stay informed about the application's launch.
+- Email Signup: A form for users to submit their email addresses to stay informed about the application's launch.
 
-### Modern Design: Built with HTML, CSS, and JavaScript for a professional and user-friendly experience.
+- Modern Design: Built with HTML, CSS, and JavaScript for a professional and user-friendly experience.
 
 ## Installation
 
